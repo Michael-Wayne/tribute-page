@@ -113,6 +113,11 @@ footer {
     color: whitesmoke;
 }
 
-footer a {
-    color: #00ffff;
+
+/* footer a {
+    color: gold;
+} */
+
+footer a:hover {
+    color: #9af104;
 }
