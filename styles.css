@@ -113,11 +113,12 @@ footer {
     color: whitesmoke;
 }
 
+#foundation-link{
+    color: whitesmoke;
+    font-weight: bold;
+    text-decoration: none;
+}
 
-/* footer a {
-    color: gold;
-} */
-
-footer a:hover {
-    color: #9af104;
+#foundation-link:hover{
+    color: #f0e806;
 }
